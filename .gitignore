@@ -1,0 +1,8 @@
+.idea*
+on_exit*
+images/*
+iconunix.go
+iconwin.go
+vendor*
+*.exe
+*.zip
