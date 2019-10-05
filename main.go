@@ -38,7 +38,7 @@ func onReady() {
 		for {
 			select {
 			case <-mUrl.ClickedCh:
-				open.Run("https://www.noahonnumbers.com/parallelcop")
+				open.Run("https://placeholder")
 			case <-mQuit.ClickedCh:
 				ticker.Stop()
 				systray.Quit()
